@@ -1,12 +1,8 @@
 
 /** use for this module */
 
-declare class Animal {
-    age: number;
-    constructor();
-    say(customAge: number): string;
-}
+declare function combine(): string; 
 
 export {
-    Animal    
+    combine    
 }
