@@ -12,5 +12,5 @@
   "dependencies": {
     "randomstring": "^1.1.5"
   },
-  "typings": "typing/custom-type.d.ts"
+  "typings": "typing/main.d.ts"
 }
