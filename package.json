@@ -1,6 +1,6 @@
 {
   "name": "secondts99",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "",
   "main": "output/main.js",
   "scripts": {
@@ -11,5 +11,6 @@
   "license": "ISC",
   "dependencies": {
     "randomstring": "^1.1.5"
-  }
+  },
+  "typings": "typing/custom-type.d.ts"
 }
